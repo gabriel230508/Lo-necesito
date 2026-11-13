@@ -27,3 +27,4 @@ Output: `<Output folder>/<Game> [TITLEID] (+ update)/exefs/…` and `/romfs/…`
 * Tickets embedded in an NSP are used automatically (common titlekey type). Personalised tickets are not supported.
 * Not supported: NSZ/XCZ (compressed), NCA0, sparse/compressed NCAs, DLC extraction.
 * Android 11+ won't let you pick the storage root or Download as the output folder – choose a subfolder.
+
